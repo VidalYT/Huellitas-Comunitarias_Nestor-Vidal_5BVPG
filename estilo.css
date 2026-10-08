@@ -51,6 +51,8 @@ section {
 
 footer {
     text-align: center;
+    align-items: center;
+    justify-content: center;
     padding: 10px 10px;
 }
 
@@ -185,6 +187,13 @@ footer {
     padding: 15px;
     border-radius: 20px;
     display: block;
+}
+
+.footer-img {
+    width: 20%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 20px;
 }
 
 .seccion-suministros {
