@@ -246,3 +246,11 @@ footer {
     padding: 5px;
     border-radius: 20px;
 }
+
+.publicidad {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-top: 5px;
+}
